@@ -1,0 +1,10 @@
+{
+  "description": "Experience seamless dining with a premium restaurant website and management dashboard, offering easy reservations, takeaway orders, and efficient admin tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
